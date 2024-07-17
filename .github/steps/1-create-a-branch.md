@@ -42,4 +42,4 @@ Branches allow you to separate your work from the `main` branch. In other words,
    The branch will automatically switch to the one you have just created.
    The **main** branch drop-down bar will reflect your new branch and display the new branch name.
 
-6. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step
+6. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
