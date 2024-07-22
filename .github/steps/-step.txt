@@ -1,1 +1,1 @@
--ge 3
+[ $(cat .github/steps/-step.txt) -ge 3 ] || [ $(cat .github/steps/-step.txt) = X ]
