@@ -1,0 +1,7 @@
+.background {
+  background: no-repeat url("../img/bg.jpg");
+  background-position: center center;
+  background-repeat:  no-repeat;
+  background-attachment: fixed;
+  background-size:  cover;
+}
